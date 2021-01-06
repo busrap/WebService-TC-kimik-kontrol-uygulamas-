@@ -1,0 +1,37 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService-Giris.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService-Giris.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService-Giris.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService-Giris.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService_Giris.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService_Giris.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService-Giris.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService-Giris.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService-Giris.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService-Giris.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\bin\Debug\WebService.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService-Giris\obj\Debug\WebService_Giris.TcknDogrula.resources
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService-Giris.exe.config
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService-Giris.exe
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService-Giris.pdb
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\EntityFramework.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\EntityFramework.SqlServer.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService.pdb
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\WebService.dll.config
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\EntityFramework.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\bin\Debug\EntityFramework.SqlServer.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService_Giris.Form1.resources
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService_Giris.Properties.Resources.resources
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService_Giris.TcknDogrula.resources
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.csproj.CopyComplete
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.exe
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService-Giris\obj\Debug\WebService-Giris.pdb

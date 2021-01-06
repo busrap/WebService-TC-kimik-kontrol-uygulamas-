@@ -1,0 +1,27 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\WebService.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\WebService.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\WebService.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\obj\Debug\WebService.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\obj\Debug\WebService.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\WebService-Giris\WebService\bin\EntityFramework.SqlServer.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\WebService.dll.config
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\WebService.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\WebService.pdb
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\EntityFramework.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\EntityFramework.SqlServer.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\EntityFramework.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\EntityFramework.SqlServer.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\obj\Debug\WebService.csproj.CopyComplete
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\obj\Debug\WebService.dll
+E:\Çalışmalar\A_MY\WebApi\WebService-TCKN_Uygulaması\WebService\obj\Debug\WebService.pdb
